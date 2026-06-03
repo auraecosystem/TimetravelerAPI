@@ -1,0 +1,5 @@
+[mcp_servers.startuphub]
+url = "https://www.startuphub.ai/api/v1/mcp"
+
+[mcp_servers.startuphub.http_headers]
+Authorization = "Bearer{sk_live_b62d3c14c5dd3d594fb0a402c9416098119cda4ab381b19d}"
